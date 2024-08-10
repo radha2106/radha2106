@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/radha2106/radha2106/blob/main/Profile%20banner%20-%201.png)
 
 <h1 align="center">Hi 👋😎, I'm Jose</h1>
-<h3 align="center">A detail-oriented analyst from the Dominican Republic 🇩🇴, eager in interpreting and analyzing data; seeking to leverage my analytical skills </h3>
+<h3 align="center">A detail-oriented analyst from the :dominican republic:Dominican Republic🇩🇴, eager in interpreting and analyzing data; seeking to leverage my analytical skills </h3>
 <img align="right" alt="Coding" width="350" src="https://github.com/radha2106/radha2106/blob/main/4824f0a65609cc143753dba9ff9327cc5c221395952d866a7b19402e050faa69.0.png"
 
 - 👨‍💻 All of my projects are available at [NovyPro/Jose Ventura](https://www.novypro.com/profile_projects/joseventura)
