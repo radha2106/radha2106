@@ -9,11 +9,13 @@
 📫 How to reach me:
     <a href="mailto:radhames2106@gmail.com"></br>
     <img src="https://img.shields.io/badge/Gmail-131515?style=for-the-badge&logo=gmail&logoColor=red" />
-    </a>  
+    </a>
+    
 👨‍💻 All of my projects are available at:
     <a href="https://www.novypro.com/profile_projects/joseventura"></br>
      <img src="https://img.shields.io/badge/Projects-1877F2?style=for-the-badge&logo=About.me&logoColor=white"/>
-     <a/>     
+     <a/>
+     
 📫DM at:</br>
    <a href="https://instagram.com/ventu2106"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></br>
    <a href="http://Wa.me/+18294461993"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
