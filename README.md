@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/radha2106/radha2106/blob/main/folder/Profile%20banner%20-%201.png)
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=30&letterSpacing=&duration=3000&pause=1000&color=FAFAFA&background=E8E8E800&width=435&lines=Hello+there%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%98%8E;I'm+Jose+Ventura" alt="Typing SVG" /></a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=30&letterSpacing=&duration=3000&pause=1000&color=70e000&background=E8E8E800&width=435&lines=Hello+there%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%98%8E;I'm+Jose+Ventura" alt="Typing SVG" /></a></h1>
 
 <h2 align="center">A detail-oriented analyst from the 🇩🇴 Dominican Republic 🇩🇴, eager in interpreting and analyzing data; seeking to leverage my analytical skills</h2>
 
