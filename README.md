@@ -12,8 +12,8 @@
     </a>
     
 👨‍💻 All of my projects are available at:
-    <a href="https://www.novypro.com/profile_projects/joseventura"></br>
-     <img src="https://img.shields.io/badge/Projects-1877F2?style=for-the-badge&logo=About.me&logoColor=white"/>
+    <a href="https://github.com/radha2106?tab=repositories"></br>
+     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
      <a/>
      
 📫DM at:</br>
